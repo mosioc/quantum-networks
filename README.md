@@ -16,6 +16,7 @@ This project is in active development, with planned updates to enhance simulatio
 - Install [QuISP](https://github.com/sfc-aqua/quisp) by following the official installation guide. (Notice: use `git clone --recurse-submodules https://github.com/sfc-aqua/quisp.git` to download 5 submodules) 
 - Ensure a C++ compiler are installed.
 
+- Temporary: Notice => [https://github.com/sfc-aqua/quisp/issues/568](https://github.com/sfc-aqua/quisp/issues/568)
 
 ## Future Updates
 This repository will be updated in the near future.

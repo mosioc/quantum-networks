@@ -13,7 +13,7 @@ This project is in active development, with planned updates to enhance simulatio
 
 ### Prerequisites
 - Install [OMNeT++](https://omnetpp.org/download/) 
-- Install [QuISP](https://github.com/sfc-aqua/quisp) by following the official installation guide.
+- Install [QuISP](https://github.com/sfc-aqua/quisp) by following the official installation guide. (Notice: use `git clone --recurse-submodules https://github.com/sfc-aqua/quisp.git` to download 5 submodules) 
 - Ensure a C++ compiler are installed.
 
 
